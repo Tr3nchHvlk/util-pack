@@ -6,3 +6,4 @@ pub mod remove;
 pub mod stream;
 pub mod insert; 
 pub mod env_manager;
+pub mod extend;
